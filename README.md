@@ -1,10 +1,12 @@
 <h1>Hi there 👋, I'm Sebastián Valverde.</h1>
 
+
 <h2><strong>About me</strong></h2>
 <p>
 I am an undergraduate <strong>Computer Systems Engineering student</strong> from Peru, interested in <strong>software development and Full Stack development</strong>. I enjoy learning new technologies, building projects, and improving my programming and problem-solving skills through practice.
 </p>
 
+<img align="right" width=500px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <h3>💻 Backend</h3> <ul> <li>Java</li> <li>Spring Boot</li> <li>C# / ASP.NET</li> <li>Python</li> <li>SQL Server</li> <li>Postman</li> <li>Docker</li> </ul>
 
